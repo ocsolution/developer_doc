@@ -1,3 +1,3 @@
-# Facebook post to channel
+# Facebook post to page
 
 - Create facebook developer token
